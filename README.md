@@ -6,6 +6,7 @@ This is a sample Web Application to use during Continuous Integration demos.
 
 
 ```
+clean the package
 mvn3 clean package
 ```
 
